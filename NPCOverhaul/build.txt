@@ -1,0 +1,3 @@
+author = Oneri
+version = 0.1
+displayName = NPC Overhaul
